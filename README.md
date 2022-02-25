@@ -1,4 +1,9 @@
+
 ### Hi there 👋
+Some github aliases are [clintonPantheon](github.com/clintonPantheon), [cmb33595](github.com/cmb33595)
+
+To learn more about me, check out my [blog](https://torrho.com) and my [work with me guide](https://workwithme.guide/clintonPantheon).
+
 
 <!--
 **afbase/afbase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
